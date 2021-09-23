@@ -1,10 +1,10 @@
 {
   "author": "hsanjuan",
   "bugs": {
-    "url": "https://github.com/ipfs/go-ipfs-delay"
+    "url": "https://github.com/fgeth/fg-ipfs-delay"
   },
   "gx": {
-    "dvcsimport": "github.com/ipfs/go-ipfs-delay"
+    "dvcsimport": "github.com/fgeth/fg-ipfs-delay"
   },
   "gxVersion": "0.12.1",
   "language": "go",

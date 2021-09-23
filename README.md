@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](http://ipn.io)
 [![](https://img.shields.io/badge/project-IPFS-blue.svg?style=flat-square)](http://ipfs.io/)
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-[![GoDoc](https://godoc.org/github.com/ipfs/go-ipfs-delay?status.svg)](https://godoc.org/github.com/ipfs/go-ipfs-delay)
+[![GoDoc](https://godoc.org/github.com/fgeth/fg-ipfs-delay?status.svg)](https://godoc.org/github.com/fgeth/fg-ipfs-delay)
 [![Build Status](https://travis-ci.org/ipfs/go-ipfs-delay.svg?branch=master)](https://travis-ci.org/ipfs/go-ipfs-delay)
 
 > go-ipfs-delay makes it easy to add (threadsafe) configurable delays to other objects.
@@ -20,16 +20,16 @@
 `go-ipfs-delay` works like a regular Go module:
 
 ```
-> go get github.com/ipfs/go-ipfs-delay
+> go get github.com/fgeth/fg-ipfs-delay
 ```
 
 ## Usage
 
 ```
-import "github.com/ipfs/go-ipfs-delay"
+import "github.com/fgeth/fg-ipfs-delay"
 ```
 
-Check the [GoDoc documentation](https://godoc.org/github.com/ipfs/go-ipfs-delay)
+Check the [GoDoc documentation](https://godoc.org/github.com/fgeth/fg-ipfs-delay)
 
 ## Contribute
 
