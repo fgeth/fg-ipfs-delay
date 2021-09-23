@@ -1,3 +1,3 @@
-module github.com/ipfs/go-ipfs-delay
+module github.com/fgeth/fg-ipfs-delay
 
 go 1.16
